@@ -1,3 +1,4 @@
+// console.log(a)
 const a = {x:1};
 console.log(a)
 const b = a;
