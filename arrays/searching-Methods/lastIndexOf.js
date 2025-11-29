@@ -4,3 +4,12 @@ const num = [1, 2, 3, 4, 5, 1, 2, 3];
 
 const get5 = num.lastIndexOf(5);
 console.log(get5)
+
+// Task:
+
+// Find last index of 5 in [5,1,5,2,5]
+
+const given = [5,1,5,2,5]
+
+const find5 = given.lastIndexOf(5);
+console.log(find5)
