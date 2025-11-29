@@ -1,3 +1,4 @@
+//Returns index of element OR -1.
 const alpha = ['a', 'b', 'c', 'd', 'e'];
 
 const getc = alpha.indexOf('c');
